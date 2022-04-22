@@ -1,0 +1,10 @@
+form{
+    display: flex;
+    align-items: center;
+}
+input+input{
+    margin-left: 24px;
+}
+input:hover{
+    color: red;
+}
